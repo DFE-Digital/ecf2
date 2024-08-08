@@ -1,0 +1,8 @@
+CONFIG=review
+ENVIRONMENT=review
+CONFIG_SHORT=rv
+AZURE_SUBSCRIPTION=s189-teacher-services-cloud-test
+AZURE_RESOURCE_PREFIX=s189t1
+KV_PURGE_PROTECTION=false
+CONFIG_LONG=review
+NAMESPACE=cpd-development
