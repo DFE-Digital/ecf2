@@ -24,6 +24,7 @@ group :development, :test do
   gem "rspec"
   gem "rspec-rails"
   gem "rubocop-govuk"
+  gem 'capybara-playwright-driver'
 end
 
 group :test do
