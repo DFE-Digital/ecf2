@@ -1,0 +1,23 @@
+We need to make sure that people who’ve left the team no longer have access to key systems. 
+
+A service now leaver request should do most of the action required, but there are some which need to be done manually: 
+
+Service Now request takes care of:
+
+MS systems 
+
+O365 access
+
+GitHub
+
+JIRA/Confluence
+
+Lucid
+
+Manually remove:
+
+the Admin Console (remove manually)
+
+Notify
+
+Trello
